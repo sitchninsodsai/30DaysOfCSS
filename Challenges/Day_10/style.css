@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   height: 100vh;
-  background: #2E0C0A;
+  background: blue;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -33,7 +33,7 @@ body {
   display: inline-block;
   background:#141212;
   padding: 15px 30px;
-  color: rgb(63, 57, 57);
+  color: rgb(184, 23, 23);
   text-shadow: 0 2px 4px rgba(0,0,0,.5);
   border-radius: 30px;
   font-size: 22px;
